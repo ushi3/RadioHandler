@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- https://material.io/guidelines/style/color.html#color-usability -->
+
+    <!-- Material black on Light (Dark text on light backgrounds) -->
+    <color name="black">#000000</color>
+    <!-- 87% black (for text)-->
+    <color name="md_black_opacity_87">#DD000000</color>
+    <!-- 54% black (for secondary text) -->
+    <color name="md_black_opacity_54">#89000000</color>
+    <!-- 26% black  (for disabled and hint)-->
+    <color name="md_black_opacity_26">#42000000</color>
+    <!-- 12% black  (for divider)-->
+    <color name="md_black_opacity_12">#1E000000</color>
+
+    <!-- Material white on Dark (White text on dark backgrounds) -->
+    <color name="white">#FFFFFF</color>
+    <!-- 100% white (for text)-->
+    <color name="md_white_opacity_100">@color/white</color>
+    <!-- 70% white (for secondary text) -->
+    <color name="md_white_opacity_70">#B2FFFFFF</color>
+    <!-- 30% white  (for disabled and hint)-->
+    <color name="md_white_opacity_30">#4CFFFFFF</color>
+    <!-- 12% white  (for divider)-->
+    <color name="md_white_opacity_12">#1EFFFFFF</color>
+
+</resources>

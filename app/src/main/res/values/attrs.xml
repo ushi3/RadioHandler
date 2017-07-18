@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RadioHandler">
+        <attr name="radioGroupTag" format="string"/>
+        <attr name="canRevertUnchecked" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="CheckableFrameLayout">
+        <attr name="android:checked"/>
+    </declare-styleable>
+
+    <declare-styleable name="BackgroundTintHelper">
+        <attr name="backgroundTint"/>
+        <attr name="backgroundTintMode"/>
+    </declare-styleable>
+
+</resources>

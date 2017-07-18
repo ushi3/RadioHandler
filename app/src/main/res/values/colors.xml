@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F02E7E</color>
+    <color name="colorPrimaryDark">#DD286F</color>
+    <color name="colorAccent">#42FF3E</color>
+
+    <color name="colorCheckableCircle">@color/colorPrimary</color>
+    <color name="textColorCheckableCircle">@color/textColorOnDark</color>
+    <color name="colorCheckableCircle_sub">@color/colorAccent</color>
+    <color name="textColorCheckableCircle_sub">@color/textColorOnDark</color>
+
+    <color name="textColorOnLight">@color/md_black_opacity_87</color>
+    <color name="textColorOnDark">@color/md_white_opacity_100</color>
+
+</resources>
